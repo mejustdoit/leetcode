@@ -37,7 +37,6 @@ public class KMP {
 	/**
 	 *
 	 * @param P
-	 * @return {@link void}
 	 * @auther: shitao
 	 * @date: 2020/5/29 下午1:50
 	 * @discription 获取模式串前缀数组
@@ -50,7 +49,7 @@ public class KMP {
 			if(j == -1 || P.charAt(i) == P.charAt(j)){
 				i++;
 				j++;
-				next[i] = j;
+				next[j] = j;
 			}else {
 				j = next[j];
 			}
@@ -79,10 +78,10 @@ public class KMP {
 	public static void main(String[] args) {
 		String S = "frejnverreui revre freer fewwewq";
 		String P = "ejnver";
-		System.out.println(forceBluth(S,P));
-		int[] next = new int[P.length()];
-
-
+		int[] next = new int[5];
+		getNext(P,next);
+		System.out.println("forceBluth :   " + forceBluth(S,P));
+		System.out.println("KMP : " + getKMP(S,P,next));
 	}
 
 

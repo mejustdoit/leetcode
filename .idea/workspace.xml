@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fb2523e-8957-4b35-aa7a-11f632709212" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mejustdoit/classic/KMP.java" afterDir="false" />
+    <list default="true" id="d52cd60e-a983-4f35-8ab6-6706c6f15ce5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/classic/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/classic/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mejustdoit/classic/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mejustdoit/classic/KMP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1cZGXnBFoRWJCKKiWOUBdSclIiR" />
+  <component name="ProjectId" id="1cnJDqPuV9wYYc2fDFHwQqfKWre" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +45,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.KMP">
+  <component name="RunManager" selected="Application.NDivideByM">
     <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mejustdoit.classic.KMP" />
       <module name="leetcode" />
@@ -58,38 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.leetcode.ThreeSum15" />
+    <configuration name="NDivideByM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.classic.NDivideByM" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mejustdoit.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParent_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.leetcode.ValidParent_20" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mejustdoit.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xuanzhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.zuochengyun.xuanzhuan" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mejustdoit.zuochengyun.*" />
+          <option name="PATTERN" value="com.mejustdoit.classic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,10 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NDivideByM" />
         <item itemvalue="Application.KMP" />
-        <item itemvalue="Application.xuanzhuan" />
-        <item itemvalue="Application.ValidParent_20" />
-        <item itemvalue="Application.ThreeSum15" />
       </list>
     </recent_temporary>
   </component>
@@ -111,13 +84,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4fb2523e-8957-4b35-aa7a-11f632709212" name="Default Changelist" comment="" />
-      <created>1589892521966</created>
+      <changelist id="d52cd60e-a983-4f35-8ab6-6706c6f15ce5" name="Default Changelist" comment="" />
+      <created>1591158306587</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589892521966</updated>
-      <workItem from="1589892526727" duration="258000" />
-      <workItem from="1590728745619" duration="2090000" />
+      <updated>1591158306587</updated>
+      <workItem from="1591158311653" duration="1053000" />
+      <workItem from="1591192404639" duration="894000" />
+      <workItem from="1593694290955" duration="1243000" />
+      <workItem from="1593743549842" duration="323000" />
     </task>
     <servers />
   </component>
@@ -125,21 +100,25 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1589892753704">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1591164413398">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1440.848/0.-1080.1920.1080/-1080.-1080.1080.1920@0.-1080.1920.1080" timestamp="1589892753704" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1589892753700">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748238" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1591164413398" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1591164413395">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1440.848/0.-1080.1920.1080/-1080.-1080.1080.1920@0.-1080.1920.1080" timestamp="1589892753700" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1589892753697">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748232" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1591164413395" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1591164413394">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1440.848/0.-1080.1920.1080/-1080.-1080.1080.1920@0.-1080.1920.1080" timestamp="1589892753697" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1589892753702">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748229" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1591164413394" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1591164413396">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1440.848/0.-1080.1920.1080/-1080.-1080.1080.1920@0.-1080.1920.1080" timestamp="1589892753702" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748235" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1591164413396" />
   </component>
 </project>
