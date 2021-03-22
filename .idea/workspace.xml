@@ -8,6 +8,11 @@
       <change afterPath="$PROJECT_DIR$/src/com/mejustdoit/zuochengyun/chapter_4_recursionanddp/Problem_03_CoinsMin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/mejustdoit/zuochengyun/utils/TreeUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/classic/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/classic/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/leetcode/binarysearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/leetcode/binarysearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/leetcode/cds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/leetcode/cds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/mejustdoit/leetcode/custome/Gcd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mejustdoit/zuochengyun/chapter_2_listproblem/Problem_01_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mejustdoit/zuochengyun/chapter_2_listproblem/Problem_01_PrintCommonPart.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,6 +144,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1cnJDqPuV9wYYc2fDFHwQqfKWre" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -294,7 +304,7 @@
       </method>
     </configuration>
     <configuration name="Problem_03_CoinsMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.zuochengyun.chapter_4_recursionanddp.Problem_03_CoinsMin" />
+      <option name="MAIN_CLASS_NAME" value="com.mejustdoit.zuochengyun.chapter_4_recursionanddp.Problem_03_CoinsMin" /><option name="MAIN_CLASS_NAME" value="com.mejustdoit.zuochengyun.chapter_2_listproblem.Problem_01_PrintCommonPart" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -339,6 +349,13 @@
         <item itemvalue="Application.GetMidNodeList" />
         <item itemvalue="Application.ReversNodeList" />
         <item itemvalue="Application.Problem_01_PrintCommonPart" />
+        <item itemvalue="Application.NDivideByM" />
+        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.GetMidNodeList" />
+        <item itemvalue="Application.ReversNodeList" />
+        <item itemvalue="Application.Problem_01_PrintCommonPart" />
+        <item itemvalue="Application.BinarySearch (1)" />
+        <item itemvalue="Application.ReversLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -347,6 +364,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="d52cd60e-a983-4f35-8ab6-6706c6f15ce5" name="Default Changelist" comment="" />
+      <created>1591158306587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591158306587</updated>
+      <workItem from="1591158311653" duration="1053000" />
+      <workItem from="1591192404639" duration="894000" />
+      <workItem from="1593694290955" duration="1243000" />
+      <workItem from="1593743549842" duration="323000" />
       <changelist id="2ae9d061-2507-4435-80a8-c4bad8facc40" name="Default Changelist" comment="" />
       <created>1586663973795</created>
       <option name="number" value="Default" />
@@ -442,6 +468,29 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1591164413398">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748238" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1591164413398" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1591164413395">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748232" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1591164413395" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1591164413394">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748229" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1591164413394" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1591164413396">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.851/0.-1080.1920.1080/-1080.-1080.1080.1920@0.0.1440.851" timestamp="1591158748235" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1591164413396" />
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
